@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\bin\Debug\net5.0\ExCalculadora.exe
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\bin\Debug\net5.0\ExCalculadora.deps.json
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\bin\Debug\net5.0\ExCalculadora.runtimeconfig.json
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\bin\Debug\net5.0\ExCalculadora.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\bin\Debug\net5.0\ExCalculadora.dll
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\bin\Debug\net5.0\ExCalculadora.pdb
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.dll
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\refint\ExCalculadora.dll
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.pdb
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ExCalculadora.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExCalculadora\ExCalculadora\ExCalculadora\obj\Debug\net5.0\ref\ExCalculadora.dll

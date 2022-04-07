@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\bin\Debug\net5.0\ExTabuada.exe
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\bin\Debug\net5.0\ExTabuada.deps.json
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\bin\Debug\net5.0\ExTabuada.runtimeconfig.json
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\bin\Debug\net5.0\ExTabuada.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\bin\Debug\net5.0\ExTabuada.dll
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\bin\Debug\net5.0\ExTabuada.pdb
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.dll
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\refint\ExTabuada.dll
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.pdb
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ExTabuada.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\ExTabuada\ExTabuada\ExTabuada\obj\Debug\net5.0\ref\ExTabuada.dll

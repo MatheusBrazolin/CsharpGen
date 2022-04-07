@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExTabuada", "ExTabuada\ExTabuada.csproj", "{8FF64475-729B-4674-99FE-9BD5396B339F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF64475-729B-4674-99FE-9BD5396B339F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF64475-729B-4674-99FE-9BD5396B339F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF64475-729B-4674-99FE-9BD5396B339F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF64475-729B-4674-99FE-9BD5396B339F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A24D5D-697E-4C7C-97A4-43132EEE89E6}
+	EndGlobalSection
+EndGlobal

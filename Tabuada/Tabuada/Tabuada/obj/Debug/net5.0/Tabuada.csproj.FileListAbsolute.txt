@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\Curso Generation\06-04\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Curso Generation\06-04\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\06-04\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Curso Generation\06-04\Tabuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
