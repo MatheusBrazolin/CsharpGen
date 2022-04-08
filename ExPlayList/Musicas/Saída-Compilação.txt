@@ -1,0 +1,5 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: ConsoleApp1, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>ConsoleApp1 -> C:\Users\Usuario\Documents\Curso Generation\Csharp\Nova pasta\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

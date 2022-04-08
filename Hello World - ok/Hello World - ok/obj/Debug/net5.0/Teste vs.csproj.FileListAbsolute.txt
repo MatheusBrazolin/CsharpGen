@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\bin\Debug\net5.0\Teste vs.exe
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\bin\Debug\net5.0\Teste vs.deps.json
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\bin\Debug\net5.0\Teste vs.runtimeconfig.json
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\bin\Debug\net5.0\Teste vs.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\bin\Debug\net5.0\Teste vs.dll
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\bin\Debug\net5.0\Teste vs.pdb
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.dll
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\refint\Teste vs.dll
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.pdb
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\Teste vs.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Curso Generation\Teste vs\Teste vs\obj\Debug\net5.0\ref\Teste vs.dll

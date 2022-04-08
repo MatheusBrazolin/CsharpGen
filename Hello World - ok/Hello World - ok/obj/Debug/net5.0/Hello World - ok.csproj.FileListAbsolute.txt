@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\curso\Hello World - ok\bin\Debug\net5.0\Hello World - ok.exe
+C:\Users\Usuario\Desktop\curso\Hello World - ok\bin\Debug\net5.0\Hello World - ok.deps.json
+C:\Users\Usuario\Desktop\curso\Hello World - ok\bin\Debug\net5.0\Hello World - ok.runtimeconfig.json
+C:\Users\Usuario\Desktop\curso\Hello World - ok\bin\Debug\net5.0\Hello World - ok.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\curso\Hello World - ok\bin\Debug\net5.0\Hello World - ok.dll
+C:\Users\Usuario\Desktop\curso\Hello World - ok\bin\Debug\net5.0\Hello World - ok.pdb
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.dll
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\refint\Hello World - ok.dll
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.pdb
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\Hello World - ok.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\curso\Hello World - ok\obj\Debug\net5.0\ref\Hello World - ok.dll
