@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\ExPlayList\\Musicas\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\Zoo-Calculo-Ex\\Zoologico\\Zoologico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\ExPlayList\\Musicas\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\Zoo-Calculo-Ex\\Zoologico\\Zoologico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\ExPlayList\\Musicas\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\ExPlayList\\Musicas\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\Zoo-Calculo-Ex\\Zoologico\\Zoologico.csproj",
+        "projectName": "Zoologico",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\Zoo-Calculo-Ex\\Zoologico\\Zoologico.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\ExPlayList\\Musicas\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Curso Generation\\Csharp\\Zoo-Calculo-Ex\\Zoologico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
